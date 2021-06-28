@@ -46,6 +46,12 @@ body {
   background-image: url("img/icon-phone.svg");
 }
 
+.themes {
+  border:  1px solid #ffffff;
+  padding:  10px;
+  border-radius: 10%;
+}
+
 .hero-image {
   margin-bottom: 480px;
 }
